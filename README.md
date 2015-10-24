@@ -1,40 +1,54 @@
 # Women-GitHubers
 Inspired by a comment on a [Quora Answer] (https://www.quora.com/How-well-does-GitHub-profile-help-programmers/answer/Tapasweni-Pathak) I wrote, I will include the link to Women GitHubers here.
 
+[kcunning] (https://github.com/kcunning)
 
-* [ana-balica] (https://github.com/ana-balica)
+[rallytime] (https://github.com/rallytime)
 
-* [aniav] (https://github.com/aniav)
+[patjouk] (https://github.com/patjouk)
 
-* [chiuki] (https://github.com/chiuki)
+[econchick] (https://github.com/econchick)
 
-* [exploreshaifali] (https://github.com/exploreshaifali)
+[ana-balica] (https://github.com/ana-balica)
 
-* [helenst] (https://github.com/helenst)
+[aniav] (https://github.com/aniav)
 
-* [hollyschinsky] (https://github.com/hollyschinsky)
+[chiuki] (https://github.com/chiuki)
 
-* [loiane] (https://github.com/loiane)
+[cranberryofdoom] (https://github.com/cranberryofdoom)
 
-* [jig08] (https://github.com/jig08)
+[exploreshaifali] (https://github.com/exploreshaifali)
 
-* [Nerdylicious] (https://github.com/Nerdylicious)
+[helenst] (https://github.com/helenst)
 
-* [nlhkabu] (https://github.com/nlhkabu)
+[hollyschinsky] (https://github.com/hollyschinsky)
 
-* [olasitarska] (https://github.com/olasitarska)
+[loiane] (https://github.com/loiane)
 
-* [phoenixperry] (https://github.com/phoenixperry)
+[jig08] (https://github.com/jig08)
 
-* [rmurphey] (https://github.com/rmurphey)
+[Nerdylicious] (https://github.com/Nerdylicious)
 
-* [sindhus] (https://github.com/sindhus)
+[nlhkabu] (https://github.com/nlhkabu)
 
-* [thefoxis] (https://github.com/thefoxis)
+[olasitarska] (https://github.com/olasitarska)
 
-* [willingc] (https://github.com/willingc)
+[phoenixperry] (https://github.com/phoenixperry)
 
-* [y4smeen] (https://github.com/y4smeen)
+[rmurphey] (https://github.com/rmurphey)
+
+[sharon-lin] (https://github.com/sharon-lin)
+
+[sindhus] (https://github.com/sindhus)
+
+[tapasweni-pathak](https://github.com/tapasweni-pathak)
+
+[thefoxis] (https://github.com/thefoxis)
+
+[willingc] (https://github.com/willingc)
+
+[y4smeen] (https://github.com/y4smeen)
+
 
 
 
