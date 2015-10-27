@@ -11,6 +11,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [cranberryofdoom] (https://github.com/cranberryofdoom)
 
+[csvoss] (https://github.com/csvoss)
+
 [econchick] (https://github.com/econchick)
 
 [ehashman] (https://github.com/ehashman)
