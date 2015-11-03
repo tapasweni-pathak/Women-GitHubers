@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+   - 4.2.1
+
+# Skip the installation step
+install: true
+
+script: node validator.js
