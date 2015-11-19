@@ -11,6 +11,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [aniav](https://github.com/aniav)
 
+[Ankita Shukla](https://github.com/ankitashukla)
+
 [Anuja Kumar](https://github.com/AnujaK)
 
 [aredridel](https://github.com/aredridel)
@@ -22,6 +24,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [chiuki](https://github.com/chiuki)
 
 [cranberryofdoom](https://github.com/cranberryofdoom)
+
+[Divya Upadhyay](https://github.com/divyaupadhyay)
 
 [econchick](https://github.com/econchick)
 
