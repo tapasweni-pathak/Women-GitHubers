@@ -36,6 +36,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Cassidy Williams](https://github.com/cassidoo)
 
+[Carol Willing](https://github.com/willingc)
+
 [chiuki](https://github.com/chiuki)
 
 [chhavip](https://github.com/chhavip)
@@ -43,6 +45,10 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [cranberryofdoom](https://github.com/cranberryofdoom)
 
 [csvoss](https://github.com/csvoss)
+
+[Deepthi Chand](https://github.com/Deepthi-Chand)
+
+[Devangana](https://github.com/DevKhokhar)
 
 [Divya Upadhyay](https://github.com/divyaupadhyay)
 
@@ -62,6 +68,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [gonsie](https://github.com/gonsie)
 
+[Harlo Holmes](https://github.com/harlo)
+
 [hbrysiewicz](https://github.com/hbrysiewicz)
 
 [helenst](https://github.com/helenst)
@@ -76,7 +84,11 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Jennifer Apacible](https://github.com/japacible)
 
+[Jennifer Helsby](https://github.com/redshiftzero)
+
 [jennschiffer](https://github.com/jennschiffer)
+
+[JennieQu](https://github.com/JennieQu)
 
 [Jess Frazelle](https://github.com/jfrazelle)
 
@@ -87,6 +99,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [Joanna Rutkowska](https://github.com/rootkovska)
 
 [Julia Evans](https://github.com/jvns)
+
+[Kajal Gupta](https://github.com/shriyanka)
 
 [Kathryn Hodge](https://github.com/blondiebytes)
 
@@ -101,6 +115,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [Laura Frank](https://github.com/rheinwein)
 
 [LeaVerou](https://github.com/LeaVerou)
+
+[Leigh Honeywell](https://github.com/hypatia)
 
 [loiane](https://github.com/loiane)
 
@@ -146,6 +162,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [rmw](https://github.com/rmw)
 
+[Runa A. Sandvik](https://github.com/runasand)
+
 [RobinSmithCA](https://github.com/robinsmithca)
 
 [Sarah Masud](https://github.com/sara-02)
@@ -181,6 +199,10 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [webchick](https://github.com/webchick)
 
 [willingc](https://github.com/willingc)
+
+[yan zhu](https://github.com/diracdeltas)
+
+[Yardena Cohen](https://github.com/yardenac)
 
 [y4smeen](https://github.com/y4smeen)
 
