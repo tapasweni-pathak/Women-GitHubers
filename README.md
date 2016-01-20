@@ -68,6 +68,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [henadaus](https://github.com/henadaus)
 
+[Hilary Mason](https://github.com/hmason)
+
 [hollyschinsky](https://github.com/hollyschinsky)
 
 [Jackie Luo](https://github.com/jackiehluo)
