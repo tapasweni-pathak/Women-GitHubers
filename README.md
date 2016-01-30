@@ -2,6 +2,8 @@
 Let's collect the data of Woman on GitHub, who inspired you to code more, learn more.
 
 **Note:** Please maintain the below list in alphabetical order.
+
+[alicetragedy](https://github.com/alicetragedy)
               
 [amandaharlin](https://github.com/amandaharlin)
 
@@ -116,6 +118,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [snipe](https://github.com/snipe)
 
 [Sushmita Singh](https://github.com/wallflower1)
+
+[svaksha](https://github.com/svaksha)
 
 [tanyaschlusser](https://github.com/tanyaschlusser)
 
