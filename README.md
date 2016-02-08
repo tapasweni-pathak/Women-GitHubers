@@ -9,6 +9,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Amber Yust](https://github.com/ayust)
 
+[Amitoj Kaur Chawla](https://github.com/musicakc)
+
 [ana-balica](https://github.com/ana-balica)
 
 [aniav](https://github.com/aniav)
@@ -29,6 +31,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [cranberryofdoom](https://github.com/cranberryofdoom)
 
+[csvoss](https://github.com/csvoss)
+
 [econchick](https://github.com/econchick)
 
 [ehashman](https://github.com/ehashman)
@@ -42,6 +46,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [exploreshaifali](https://github.com/exploreshaifali)
 
 [Farheen Nilofer](https://github.com/Farheen2302)
+
+[gonsie](https://github.com/gonsie)
 
 [hbrysiewicz](https://github.com/hbrysiewicz)
 
@@ -59,6 +65,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Julia Evans](https://github.com/jvns)
 
+[katydecorah](https://github.com/katydecorah)
+
 [kcunning](https://github.com/kcunning)
 
 [Kirti Thorat](https://github.com/kirtithorat)
@@ -74,6 +82,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [Mary Rose Cook](https://github.com/maryrosecook)
 
 [Misty De Meo](https://github.com/mistydemeo)
+
+[mrrrgn](https://github.com/mrrrgn)
 
 [Nerdylicious](https://github.com/Nerdylicious)
 
@@ -103,6 +113,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [rmw](https://github.com/rmw)
 
+[RobinSmithCA](https://github.com/robinsmithca)
+
 [Sarah Masud](https://github.com/sara-02)
 
 [Sarah Mei](https://github.com/sarahmei)
@@ -126,6 +138,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [tapasweni-pathak](https://github.com/tapasweni-pathak)
 
 [thefoxis](https://github.com/thefoxis)
+
+[thatdocslady](https://github.com/thatdocslady)
 
 [tpinecone](https://github.com/tpinecone)
 
