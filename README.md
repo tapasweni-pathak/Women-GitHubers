@@ -53,11 +53,15 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [exploreshaifali](https://github.com/exploreshaifali)
 
+[Farheen Nilofer](https://github.com/Farheen2302)
+
 [gonsie](https://github.com/gonsie)
 
 [hbrysiewicz](https://github.com/hbrysiewicz)
 
 [helenst](https://github.com/helenst)
+
+[Hilary Mason](https://github.com/hmason)
 
 [hollyschinsky](https://github.com/hollyschinsky)
 
@@ -125,6 +129,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [RobinSmithCA](https://github.com/robinsmithca)
 
+[Sarah Masud](https://github.com/sara-02)
+
 [Sarah Mei](https://github.com/sarahmei)
 
 [sareg0](https://github.com/sareg0)
@@ -136,6 +142,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [sindhus](https://github.com/sindhus)
 
 [snipe](https://github.com/snipe)
+
+[Sushmita Singh](https://github.com/wallflower1)
 
 [svaksha](https://github.com/svaksha)
 
