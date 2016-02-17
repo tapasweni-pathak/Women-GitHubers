@@ -69,6 +69,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Mary Rose Cook](https://github.com/maryrosecook)
 
+[Minerva Panda](https://github.com/minervapanda)
+
 [Misty De Meo](https://github.com/mistydemeo)
 
 [Nerdylicious](https://github.com/Nerdylicious)
