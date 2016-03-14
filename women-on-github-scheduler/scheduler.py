@@ -85,8 +85,8 @@ def add_user(listofusers):
 		cur.execute(query)
 		conn.commit()	
 	conn.close()
-
-@sched.scheduled_job('cron', day_of_week='mon-fri', hour=0.1)
+# check for new updates every 2 days
+@sched.scheduled_job('cron', day_of_week='mon-fri', hour=48)
 def scheduled_job():
 	extract_users()
 
