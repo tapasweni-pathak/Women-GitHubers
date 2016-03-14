@@ -20,21 +20,20 @@
     <!-- Page styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="material.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/material.min.css">
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <?php
-    //add database details of the scheduler app
     $dsn = "pgsql:"
-                . "host=################compute-1.amazonaws.com;"
-                . "dbname=##############;"
-                . "user=##############;"
+                . "host=ec2-54-83-56-31.compute-1.amazonaws.com;"
+                . "dbname=d7uvfop9iiel16;"
+                . "user=hnnhtvgaonpcjv;"
                 . "port=5432;"
                 . "sslmode=require;"
-                . "password=##########################";
+                . "password=HF442zMqDStyBz9-3RqWbhAFxL";
 
             $db = new PDO($dsn);
-            $query = "SELECT * FROM users";
+            $query = "SELECT * FROM users ORDER BY login";
             $result = $db->query($query);
             $total = 90;
             if($result)
@@ -240,10 +239,10 @@
                       <td><i class="fa fa-user"></i>
                       <td><h4 class="android-header">'.$row['login'].'</h4>
                     </tr>';
-                if ($row['name'])
+                if (strlen(trim($row['name'])) != 0 && !empty(trim($row['name'])))
                   echo '<tr>
                       <td>
-                      <td>('.$row['name'].')
+                      <td>('.trim($row['name']).')
                     </tr>';
                 if ($row['company'])
                   echo '<tr>
