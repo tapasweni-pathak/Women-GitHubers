@@ -1,0 +1,8 @@
+{
+  "name": "Women on Github Scheduler",
+  "description": "A scheduler app to keep database updated for Women on Github. The interval set is 2 days.",
+  "image": "heroku/python",
+  "repository": "https://github.com/tapasweni-pathak/Women-GitHubers",
+  "keywords": ["python", "scheduler" ],
+  "addons": [ "heroku-postgresql" ]
+}
