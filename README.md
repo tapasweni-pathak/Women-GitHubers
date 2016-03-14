@@ -57,6 +57,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Farheen Nilofer](https://github.com/Farheen2302)
 
+[Fatima Rafiqui](https://github.com/fatimarafiqui)
+
 [gonsie](https://github.com/gonsie)
 
 [hbrysiewicz](https://github.com/hbrysiewicz)
