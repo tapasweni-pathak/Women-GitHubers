@@ -1,6 +1,6 @@
 {
-  "name": "PHP Getting Started",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/heroku/php-getting-started",
+  "name": "Women on Github",
+  "description": "A web app to show details of the women on github to learn more from them.",
+  "repository": "https://github.com/tapasweni-pathak/Women-GitHubers",
   "addons": []
 }
