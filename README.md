@@ -1,5 +1,5 @@
 # Women-GitHubers
-Let's collect the data of Woman on GitHub, who inspired you to code more, learn more.
+Let's collect the data of Woman on GitHub, who inspired you to code more, learn more. [Read more about this project](https://medium.com/@TapasweniPathak/how-about-knowing-more-92680979a94b#.qxzlfw9k9)
 
 **Note:** Please maintain the below list in alphabetical order.
 
