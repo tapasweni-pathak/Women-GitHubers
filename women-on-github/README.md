@@ -10,7 +10,7 @@ Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 ```sh
 $ git clone git@github.com:tapasweni-pathak/Women-GitHubers.git # or clone your own fork
-$ cd Women-Githubers/women-on-githu
+$ cd Women-Githubers/women-on-github
 $ heroku create
 $ git push heroku master
 $ heroku open
