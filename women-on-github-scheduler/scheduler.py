@@ -18,7 +18,7 @@ OAuthToken = 'cf######################################'
 def extract_users():
 	count = 0
 	userList = []
-	Women_GitHubers_Readme = requests.get('https://raw.githubusercontent.com/tapasweni-pathak/Women-GitHubers/master/README.md')
+	Women_GitHubers_Readme = requests.get('https://raw.githubusercontent.com/tapasweni-pathak/Women-GitHubers/master/list')
 	file_text = string.split(Women_GitHubers_Readme.text, '\n')
 	for line in file_text:
 		result = re.search('\(https\:\/\/github\.com\/(.*)\)', line)
@@ -85,8 +85,8 @@ def add_user(listofusers):
 		cur.execute(query)
 		conn.commit()	
 	conn.close()
-
-@sched.scheduled_job('cron', day_of_week='mon-fri', hour=0.1)
+# check for new updates every 2 days
+@sched.scheduled_job('cron', day_of_week='mon-fri', hour=48)
 def scheduled_job():
 	extract_users()
 
