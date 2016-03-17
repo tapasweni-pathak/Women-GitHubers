@@ -18,7 +18,7 @@ OAuthToken = 'cf######################################'
 def extract_users():
 	count = 0
 	userList = []
-	Women_GitHubers_Readme = requests.get('https://raw.githubusercontent.com/tapasweni-pathak/Women-GitHubers/master/README.md')
+	Women_GitHubers_Readme = requests.get('https://raw.githubusercontent.com/tapasweni-pathak/Women-GitHubers/master/list')
 	file_text = string.split(Women_GitHubers_Readme.text, '\n')
 	for line in file_text:
 		result = re.search('\(https\:\/\/github\.com\/(.*)\)', line)

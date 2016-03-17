@@ -24,13 +24,14 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <?php
+    // credentials of the database used by the scheduler
     $dsn = "pgsql:"
-                . "host=ec2-54-83-56-31.compute-1.amazonaws.com;"
-                . "dbname=d7uvfop9iiel16;"
-                . "user=hnnhtvgaonpcjv;"
+                . "host=###############.compute-1.amazonaws.com;"
+                . "dbname=##############;"
+                . "user=##############;"
                 . "port=5432;"
                 . "sslmode=require;"
-                . "password=HF442zMqDStyBz9-3RqWbhAFxL";
+                . "password=##########################";
 
             $db = new PDO($dsn);
             $query = "SELECT * FROM users ORDER BY login";
