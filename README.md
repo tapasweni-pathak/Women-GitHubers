@@ -198,8 +198,6 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [webchick](https://github.com/webchick)
 
-[willingc](https://github.com/willingc)
-
 [yan zhu](https://github.com/diracdeltas)
 
 [Yardena Cohen](https://github.com/yardenac)
