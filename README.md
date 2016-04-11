@@ -124,6 +124,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [loiane](https://github.com/loiane)
 
+[Maria Hollweck](https://github.com/mhollweck)
+
 [Mary Rose Cook](https://github.com/maryrosecook)
 
 [Maxime Chevalier-Boisvert](https://github.com/maximecb)
@@ -169,6 +171,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [Runa A. Sandvik](https://github.com/runasand)
 
 [RobinSmithCA](https://github.com/robinsmithca)
+
+[Sanya Khurana](https://github.com/sanyagithub)
 
 [Sarah Chipps](https://github.com/sarajo)
 
