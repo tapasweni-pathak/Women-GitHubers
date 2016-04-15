@@ -136,6 +136,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [mrrrgn](https://github.com/mrrrgn)
 
+[Neha Yadav](https://github.com/iamneha)
+
 [Nerdylicious](https://github.com/Nerdylicious)
 
 [Niharika Kohli](https://github.com/Niharika29)
@@ -191,6 +193,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [sindhus](https://github.com/sindhus)
 
 [snipe](https://github.com/snipe)
+
+[Surbhi Oberoi](https://github.com/surbhioberoi)
 
 [Sushmita Singh](https://github.com/wallflower1)
 
