@@ -3,14 +3,25 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 **Note**: Please maintain the below list in alphabetical order.
 
+[Abigail Cabunoc Mayes](https://github.com/acabunoc)
+
+[Aleksandra Pawlik](https://github.com/apawlik)
+
+[Ali](https://github.com/aliburchard)
 
 [alicetragedy](https://github.com/alicetragedy)
+
+[Alissa Nedossekina](https://github.com/snowwitje)
               
 [amandaharlin](https://github.com/amandaharlin)
 
 [Amber Yust](https://github.com/ayust)
 
+[Amel Gouila](https://github.com/AmelGH)
+
 [Amitoj Kaur Chawla](https://github.com/musicakc)
+
+[Anna Krystalli](https://github.com/annakrystalli)
 
 [ana-balica](https://github.com/ana-balica)
 
@@ -21,6 +32,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [Ankita Shukla](https://github.com/ankitashukla)
 
 [Anuja Kumar](https://github.com/AnujaK)
+
+[Amy Lee](https://github.com/minisciencegirl)
 
 [aredridel](https://github.com/aredridel)
 
@@ -42,6 +55,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [cranberryofdoom](https://github.com/cranberryofdoom)
 
+[Christie Bahlai](https://github.com/cbahlai)
+
 [csvoss](https://github.com/csvoss)
 
 [Deepthi Chand](https://github.com/Deepthi-Chand)
@@ -62,9 +77,17 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [emmanuelle](https://github.com/emmanuelle)
 
+[Erin C. McKiernan](https://github.com/emckiernan)
+
+[Kate Michi Ettinger](https://github.com/ettinger)
+
 [exploreshaifali](https://github.com/exploreshaifali)
 
 [Farheen Nilofer](https://github.com/Farheen2302)
+
+[FCTweedie](https://github.com/FCTweedie)
+
+[Gaby Azzopardi](https://github.com/gabyazz)
 
 [Gina Trapani](https://github.com/ginatrapani)
 
@@ -82,6 +105,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [hollyschinsky](https://github.com/hollyschinsky)
 
+[Jana Vamosi](https://github.com/jvamosi)
+
 [Jackie Luo](https://github.com/jackiehluo)
 
 [Jen Mayers](https://github.com/jenmyers)
@@ -93,6 +118,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [jennschiffer](https://github.com/jennschiffer)
 
 [JennieQu](https://github.com/JennieQu)
+
+[Jenny Molloy](https://github.com/jcmolloy)
 
 [Jess Frazelle](https://github.com/jfrazelle)
 
@@ -112,17 +139,27 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [kcunning](https://github.com/kcunning)
 
+[Kirstie Whitaker](https://github.com/KirstieJane)
+
 [Kirti Thorat](https://github.com/kirtithorat)
 
 [kytrinyx](https://github.com/kytrinyx)
 
 [Laura Frank](https://github.com/rheinwein)
 
+[Laura Paglione](https://github.com/lpaglione)
+
 [LeaVerou](https://github.com/LeaVerou)
 
 [Leigh Honeywell](https://github.com/hypatia)
 
 [loiane](https://github.com/loiane)
+
+[Madeleine Bonsma](https://github.com/mbonsma)
+
+[Mao Mao](https://github.com/steffiecat)
+
+[Margaret Gold](https://github.com/MobileMaggie)
 
 [Maria Hollweck](https://github.com/mhollweck)
 
@@ -134,11 +171,15 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Molly Everett](https://github.com/mollymorphic)
 
+[M Fabiana Kubke](https://github.com/kubke)
+
 [mrrrgn](https://github.com/mrrrgn)
 
 [Neha Yadav](https://github.com/iamneha)
 
 [Nerdylicious](https://github.com/Nerdylicious)
+
+[Nicole Ebber](https://github.com/antischokke)
 
 [Niharika Kohli](https://github.com/Niharika29)
 
@@ -153,6 +194,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [olasitarska](https://github.com/olasitarska)
 
 [patjouk](https://github.com/patjouk)
+
+[Patricia Herterich](https://github.com/pherterich)
 
 [phoenixperry](https://github.com/phoenixperry)
 
@@ -193,6 +236,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 [sindhus](https://github.com/sindhus)
 
 [snipe](https://github.com/snipe)
+
+[Stephanie Hicks](https://github.com/stephaniehicks)
 
 [Surbhi Oberoi](https://github.com/surbhioberoi)
 
