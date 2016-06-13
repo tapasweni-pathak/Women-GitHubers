@@ -57,6 +57,8 @@ Elana Hashman ([ehashman](https://github.com/ehashman))
 
 Eleonore ([Eleonore9](https://github.com/Eleonore9))
 
+Elizabeth Hunt ([ezohunt](https://github.com/ezoehunt))
+
 Elsa Gonsiorowski ([gonsie](https://github.com/gonsie))
 
 Emma Jane ([emmajane](https://github.com/emmajane))
@@ -161,6 +163,8 @@ Rebecca Murphey ([rmurphey](https://github.com/rmurphey))
 
 Rebecca Turner ([iarna](https://github.com/iarna))
 
+Richa Rupela ([Ritsyy](https://github.com/Ritsyy))
+
 RobinSmithCA ([robinsmithca](https://github.com/robinsmithca))
 
 Ruchika Salwan ([Ruchika8](https://github.com/Ruchika8))
@@ -180,6 +184,8 @@ Sareg0 ([sareg0](https://github.com/sareg0))
 Shaifali Agrawal ([exploreshaifali](https://github.com/exploreshaifali))
 
 Sharon Lin ([sharon-lin](https://github.com/sharon-lin))
+
+Srishti Sethi ([srish](https://github.com/srish))
 
 Shaunagm ([shaunagm](https://github.com/shaunagm))
 
