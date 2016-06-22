@@ -27,6 +27,8 @@ Ari VanIderstine ([arirawr](https://github.com/arirawr))
 
 Aria Stewart ([aredridel](https://github.com/aredridel))
 
+Arpita Roy ([Arpita1](https://github.com/Arpita1))
+
 Ashley Qian ([cranberryofdoom](https://github.com/cranberryofdoom))
 
 Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
@@ -50,6 +52,8 @@ Chiu-Ki Chan ([chiuki](https://github.com/chiuki))
 Clare Corthell ([clarecorthell](https://github.com/clarecorthell))
 
 Damini Satya ([daminisatya](https://github.com/daminisatya))
+
+Dhriti Shekhar Shikhar ([DhritiShikhar](https://github.com/DhritiShikhar))
 
 Divya Upadhyay ([divyaupadhyay](https://github.com/divyaupadhyay))
 
@@ -86,6 +90,8 @@ Jennifer Apacible ([japacible](https://github.com/japacible))
 Jess Frazelle ([jfrazelle](https://github.com/jfrazelle))
 
 Jessica Lord ([jlord](https://github.com/jlord))
+
+Jessie Newman ([Jessie-Newman](https://github.com/Jessie-Newman))
 
 Jigyasa Grover ([jig08](https://github.com/jig08))
 
@@ -207,11 +213,15 @@ Swati Maheshwari ([SwatiMaheshwari](https://github.com/SwatiMaheshwari))
 
 Tanvi Surana ([tanvi-surana](https://github.com/tanvi-surana))
 
+Tania Alam ([alamtania](https://github.com/alamtania))
+
 Tanya Schlusser ([tanyaschlusser](https://github.com/tanyaschlusser))
 
 Tapasweni Pathak ([tapasweni-pathak](https://github.com/tapasweni-pathak))
 
 Terian Koscik ([tpinecone](https://github.com/tpinecone))
+
+Trishna Guha ([trishnaguha](https://github.com/trishnaguha))
 
 Vaibhavi Desai ([desaivaibhavi](https://github.com/desaivaibhavi))
 
