@@ -139,6 +139,8 @@ Morgan Phillips ([mrrrgn](https://github.com/mrrrgn))
 
 Nancy ([nancys03](https://github.com/nancys03))
 
+Nelly Kiboi ([nellyk](https://github.com/nellyk))
+
 Nicole Harris ([nlhkabu](https://github.com/nlhkabu))
 
 Nicole Thomas ([rallytime](https://github.com/rallytime))
