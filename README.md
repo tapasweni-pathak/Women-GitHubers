@@ -3,6 +3,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 **Note**: Please maintain the below list in alphabetical order.
 
+Allison ([allisonrandal](https://github.com/allisonrandal))
+
 Amanda Harlin ([amandaharlin](https://github.com/amandaharlin))
 
 Amber Yust ([ayust](https://github.com/ayust))
@@ -36,6 +38,8 @@ Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
 Audrey Roy Greenfeld ([audreyr](https://github.com/audreyr))
 
 Bhavika Tekwani ([bhavikat](https://github.com/bhavikat))
+
+Carlisia Campos ([carlisia](https://github.com/carlisia))
 
 Carol Willing ([willingc](https://github.com/willingc))
 
@@ -71,6 +75,8 @@ Emmanuelle Gouillart ([emmanuelle](https://github.com/emmanuelle))
 
 Farheen Nilofer ([Farheen2302](https://github.com/Farheen2302))
 
+Gabriela ([I-am-Gabi](https://github.com/I-am-Gabi))
+
 Heather Brysiewicz ([hbrysiewicz](https://github.com/hbrysiewicz))
 
 Heena Mahour ([fallacy321](https://github.com/fallacy321))
@@ -80,6 +86,8 @@ Helen Sherwood-Taylor ([helenst](https://github.com/helenst))
 Hena Firdaus ([henadaus](https://github.com/henadaus))
 
 Holly Schinsky ([hollyschinsky](https://github.com/hollyschinsky))
+
+Irina Shestak ([lrlna](https://github.com/lrlna))
 
 Irish Medina ([Nerdylicious](https://github.com/Nerdylicious))
 
@@ -99,7 +107,13 @@ Joanna Rutkowska ([rootkovska](https://github.com/rootkovska))
 
 Julia Evans ([jvns](https://github.com/jvns))
 
+Júlia Rizza ([juliarizza](https://github.com/juliarizza))
+
 Julie Ann Horvath ([nrrrdcore](https://github.com/nrrrdcore))
+
+Justyna Rachowicz ([mrowa44](https://github.com/mrowa44))
+
+Kanika Murarka ([a2batic](https://github.com/a2batic))	
 
 Karolina Szczur ([thefoxis](https://github.com/thefoxis))
 
@@ -125,6 +139,8 @@ Lauren Tan ([poteto](https://github.com/poteto))
 
 Lea Verou ([LeaVerou](https://github.com/LeaVerou))
 
+Leslie Hawthorn ([lhawthorn](https://github.com/lhawthorn))
+
 Loiane Groner ([loiane](https://github.com/loiane))
 
 Lucie ([patjouk](https://github.com/patjouk))
@@ -142,6 +158,8 @@ Misty De Meo ([mistydemeo](https://github.com/mistydemeo))
 Molly Everett ([mollymorphic](https://github.com/mollymorphic))
 
 Morgan Phillips ([mrrrgn](https://github.com/mrrrgn))
+
+Nadia Eghbal ([nayafia](https://github.com/nayafia))
 
 Nancy ([nancys03](https://github.com/nancys03))
 
@@ -222,6 +240,8 @@ Tapasweni Pathak ([tapasweni-pathak](https://github.com/tapasweni-pathak))
 Terian Koscik ([tpinecone](https://github.com/tpinecone))
 
 Trishna Guha ([trishnaguha](https://github.com/trishnaguha))
+
+Una Kravets ([una](https://github.com/una))
 
 Vaibhavi Desai ([desaivaibhavi](https://github.com/desaivaibhavi))
 
