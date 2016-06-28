@@ -31,6 +31,8 @@ Aria Stewart ([aredridel](https://github.com/aredridel))
 
 Arpita Roy ([Arpita1](https://github.com/Arpita1))
 
+Asmaa Reda ([asmaaredaawad](https://github.com/asmaaredaawad))
+
 Ashley Qian ([cranberryofdoom](https://github.com/cranberryofdoom))
 
 Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
@@ -57,9 +59,13 @@ Clare Corthell ([clarecorthell](https://github.com/clarecorthell))
 
 Damini Satya ([daminisatya](https://github.com/daminisatya))
 
+Daniela Gattoni ([dgattoni](https://github.com/dgattoni))
+
 Dhriti Shekhar Shikhar ([DhritiShikhar](https://github.com/DhritiShikhar))
 
 Divya Upadhyay ([divyaupadhyay](https://github.com/divyaupadhyay))
+
+Ekaterina Shemerey ([mAlishera](https://github.com/mAlishera))
 
 Elana Hashman ([ehashman](https://github.com/ehashman))
 
@@ -73,9 +79,13 @@ Emma Jane ([emmajane](https://github.com/emmajane))
 
 Emmanuelle Gouillart ([emmanuelle](https://github.com/emmanuelle))
 
+Esraa Ahmed ([Esraa-Ahmed](https://github.com/Esraa-Ahmed))
+
 Farheen Nilofer ([Farheen2302](https://github.com/Farheen2302))
 
 Gabriela ([I-am-Gabi](https://github.com/I-am-Gabi))
+
+Hadeer Younis ([elleestcrimi](https://github.com/elleestcrimi))
 
 Heather Brysiewicz ([hbrysiewicz](https://github.com/hbrysiewicz))
 
@@ -123,6 +133,8 @@ Katie Cunningham ([kcunning](https://github.com/kcunning))
 
 Katrina Owen ([kytrinyx](https://github.com/kytrinyx))
 
+Kathy O'Driscoll ([odrisck](https://github.com/odrisck))
+
 Katy DeCorah ([katydecorah](https://github.com/katydecorah))
 
 Kesha Shah ([keshashah](https://github.com/keshashah))
@@ -141,6 +153,8 @@ Lea Verou ([LeaVerou](https://github.com/LeaVerou))
 
 Leslie Hawthorn ([lhawthorn](https://github.com/lhawthorn))
 
+Liz Fong-Jones ([lizthegrey](https://github.com/lizthegrey))
+
 Loiane Groner ([loiane](https://github.com/loiane))
 
 Lucie ([patjouk](https://github.com/patjouk))
@@ -151,11 +165,17 @@ Mary Rose Cook ([maryrosecook](https://github.com/maryrosecook))
 
 Maxime Chevalier-Boisvert ([maximecb](https://github.com/maximecb))
 
+Meghan Gill ([meghangill](https://github.com/meghangill))
+
+Melissa Gattoni ([meligatt](https://github.com/meligatt))
+
 Mikey Ariel ([thatdocslady](https://github.com/thatdocslady))
 
 Misty De Meo ([mistydemeo](https://github.com/mistydemeo))
 
 Molly Everett ([mollymorphic](https://github.com/mollymorphic))
+
+Mona Jalal ([monajalal](https://github.com/monajalal))
 
 Morgan Phillips ([mrrrgn](https://github.com/mrrrgn))
 
@@ -174,6 +194,10 @@ Niharika Kohli ([Niharika29](https://github.com/Niharika29))
 Nirea ([nirea](https://github.com/nirea))
 
 Nitika Agarwal ([NitikaAgarwal](https://github.com/NitikaAgarwal))
+
+Nermin Mahmoud ([nermin-mahmoud](https://github.com/nermin-mahmoud))
+
+Nouran Mahmoud([NouranMahmoud](https://github.com/NouranMahmoud))
 
 Ola Sitarska ([olasitarska](https://github.com/olasitarska))
 
@@ -233,11 +257,15 @@ Tanvi Surana ([tanvi-surana](https://github.com/tanvi-surana))
 
 Tania Alam ([alamtania](https://github.com/alamtania))
 
+Tanya Ignatova([tanignatova](https://github.com/tanignatova))
+
 Tanya Schlusser ([tanyaschlusser](https://github.com/tanyaschlusser))
 
 Tapasweni Pathak ([tapasweni-pathak](https://github.com/tapasweni-pathak))
 
 Terian Koscik ([tpinecone](https://github.com/tpinecone))
+
+Tracy ([hackygolucky](https://github.com/hackygolucky))
 
 Trishna Guha ([trishnaguha](https://github.com/trishnaguha))
 
