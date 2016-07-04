@@ -65,6 +65,8 @@ Dhriti Shekhar Shikhar ([DhritiShikhar](https://github.com/DhritiShikhar))
 
 Divya Upadhyay ([divyaupadhyay](https://github.com/divyaupadhyay))
 
+Devangana Khokhar ([DevKhokhar](https://github.com/DevKhokhar))
+
 Ekaterina Shemerey ([mAlishera](https://github.com/mAlishera))
 
 Elana Hashman ([ehashman](https://github.com/ehashman))
@@ -79,11 +81,15 @@ Emma Jane ([emmajane](https://github.com/emmajane))
 
 Emmanuelle Gouillart ([emmanuelle](https://github.com/emmanuelle))
 
+Erin LeDell ([ledell](https://github.com/ledell))
+
 Esraa Ahmed ([Esraa-Ahmed](https://github.com/Esraa-Ahmed))
 
 Farheen Nilofer ([Farheen2302](https://github.com/Farheen2302))
 
 Gabriela ([I-am-Gabi](https://github.com/I-am-Gabi))
+
+Gabriela de Queiroz ([gdequeiroz](https://github.com/gdequeiroz))
 
 Hadeer Younis ([elleestcrimi](https://github.com/elleestcrimi))
 
@@ -111,6 +117,8 @@ Jessica Lord ([jlord](https://github.com/jlord))
 
 Jessie Newman ([Jessie-Newman](https://github.com/Jessie-Newman))
 
+Jie Sun ([jiesuncal](https://gtihub.com/jiesuncal))
+
 Jigyasa Grover ([jig08](https://github.com/jig08))
 
 Joanna Rutkowska ([rootkovska](https://github.com/rootkovska))
@@ -137,9 +145,11 @@ Kathy O'Driscoll ([odrisck](https://github.com/odrisck))
 
 Katy DeCorah ([katydecorah](https://github.com/katydecorah))
 
-Kesha Shah ([keshashah](https://github.com/keshashah))
-
 Keerthana P G  ([keerthanpg](https://github.com/keerthanpg))
+
+Kelly Kerry ChowChow ([chowchowkelly](https://github.com/chowchowkelly))
+
+Kesha Shah ([keshashah](https://github.com/keshashah))
 
 Kirti Thorat ([kirtithorat](https://github.com/kirtithorat))
 
@@ -160,6 +170,8 @@ Loiane Groner ([loiane](https://github.com/loiane))
 Lucie ([patjouk](https://github.com/patjouk))
 
 Lynn Root ([econchick](https://github.com/econchick))
+
+Magdalena Strzelecka ([emmaggie](https://github.com/emmaggie))
 
 Mary Rose Cook ([maryrosecook](https://github.com/maryrosecook))
 
@@ -182,6 +194,8 @@ Morgan Phillips ([mrrrgn](https://github.com/mrrrgn))
 Nadia Eghbal ([nayafia](https://github.com/nayafia))
 
 Nancy ([nancys03](https://github.com/nancys03))
+
+Natalia Diaz Rodriguez ([NataliaDiaz](https://github.com/NataliaDiaz))
 
 Nelly Kiboi ([nellyk](https://github.com/nellyk))
 
@@ -247,6 +261,8 @@ Sindhu S ([sindhus](https://github.com/sindhus))
 
 Snipe ([snipe](https://github.com/snipe))
 
+Susan Sun ([sunwsusan](https://github.com/sunwsusan))
+
 Sushmita Singh ([wallflower1](https://github.com/wallflower1))
 
 Svaksha ([svaksha](https://github.com/svaksha))
@@ -274,6 +290,8 @@ Trishna Guha ([trishnaguha](https://github.com/trishnaguha))
 Una Kravets ([una](https://github.com/una))
 
 Vaibhavi Desai ([desaivaibhavi](https://github.com/desaivaibhavi))
+
+Xiaowen Wang ([shamrockiris](https://github.com/shamrockiris))
 
 Yasmeen Roumie ([y4smeen](https://github.com/y4smeen))
 
