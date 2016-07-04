@@ -207,6 +207,8 @@ Raquel Vélez ([rockbot](https://github.com/rockbot))
 
 Rashmi Yadav ([raysrashmi](https://github.com/raysrashmi))
 
+Rebecca Garcia ([geekgirlweb](https://github.com/geekgirlweb))
+
 Rebecca Miller-Webster ([rmw](https://github.com/rmw))
 
 Rebecca Murphey ([rmurphey](https://github.com/rmurphey))
