@@ -23,6 +23,8 @@ Anna Warzecha ([aniav](https://github.com/aniav))
 
 Annu Joshi ([AnnuJoshi](https://github.com/AnnuJoshi))
 
+Anuja Kelkar ([anuja-kelkar](https://github.xom/anuja-kelkar))
+
 Anuja Kumar ([AnujaK](https://github.com/AnujaK))
 
 Ari VanIderstine ([arirawr](https://github.com/arirawr))
@@ -61,11 +63,13 @@ Damini Satya ([daminisatya](https://github.com/daminisatya))
 
 Daniela Gattoni ([dgattoni](https://github.com/dgattoni))
 
+Deepthi Chand ([Deepthi-Chand](https://github.com/Deepthi-Chand))
+
+Devangana Khokhar ([DevKhokhar](https://github.com/DevKhokhar))
+
 Dhriti Shekhar Shikhar ([DhritiShikhar](https://github.com/DhritiShikhar))
 
 Divya Upadhyay ([divyaupadhyay](https://github.com/divyaupadhyay))
-
-Devangana Khokhar ([DevKhokhar](https://github.com/DevKhokhar))
 
 Ekaterina Shemerey ([mAlishera](https://github.com/mAlishera))
 
