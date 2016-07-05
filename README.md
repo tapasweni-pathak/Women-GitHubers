@@ -91,6 +91,8 @@ Esraa Ahmed ([Esraa-Ahmed](https://github.com/Esraa-Ahmed))
 
 Farheen Nilofer ([Farheen2302](https://github.com/Farheen2302))
 
+Freia Lobo ([freialobo](https://github.com/freialobo)) 
+
 Gabriela ([I-am-Gabi](https://github.com/I-am-Gabi))
 
 Gabriela de Queiroz ([gdequeiroz](https://github.com/gdequeiroz))
