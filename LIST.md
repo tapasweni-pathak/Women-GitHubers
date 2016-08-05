@@ -50,6 +50,7 @@
 - [loiane](https://github.com/loiane)
 - [maryrosecook](https://github.com/maryrosecook)
 - [maximecb](https://github.com/maximecb)
+- [minervapanda](https://github.com/minervapanda)
 - [mistydemeo](https://github.com/mistydemeo)
 - [mollymorphic](https://github.com/mollymorphic)
 - [mrrrgn](https://github.com/mrrrgn)
