@@ -64,6 +64,7 @@
 - [patjouk](https://github.com/patjouk)
 - [phoenixperry](https://github.com/phoenixperry)
 - [poteto](https://github.com/poteto)
+- [PriyankaMalviya](https://github.com/priyankamalviya)
 - [rallytime](https://github.com/rallytime)
 - [raysrashmi](https://github.com/raysrashmi)
 - [rheinwein](https://github.com/rheinwein)
