@@ -217,6 +217,8 @@ Sushmita Singh ([wallflower1](https://github.com/wallflower1))
 
 Svaksha ([svaksha](https://github.com/svaksha))
 
+Svetlana Linuxenko ([linuxenko](https://github.com/linuxenko))
+
 Swati Garg ([Swati4star](https://github.com/Swati4star))
 
 Swati Maheshwari ([SwatiMaheshwari](https://github.com/SwatiMaheshwari))
