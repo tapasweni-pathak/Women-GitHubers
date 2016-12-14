@@ -79,6 +79,7 @@
 - [shaunagm](https://github.com/shaunagm)
 - [shubheksha](https://github.com/shubheksha)
 - [sindhus](https://github.com/sindhus)
+- [smaheshwari](https://github.com/SwatiMaheshwari)
 - [snipe](https://github.com/snipe)
 - [svaksha](https://github.com/svaksha)
 - [tanyaschlusser](https://github.com/tanyaschlusser)
