@@ -34,6 +34,7 @@
 - [hollyschinsky](https://github.com/hollyschinsky)
 - [iarna](https://github.com/iarna)
 - [ishitach](https://github.com/ishitach)
+- [ilze-d](https://github.com/ilze-d)
 - [jackiehluo](https://github.com/jackiehluo)
 - [japacible](https://github.com/japacible)
 - [jennschiffer](https://github.com/jennschiffer)
