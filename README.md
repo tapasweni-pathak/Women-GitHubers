@@ -139,6 +139,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Rebecca Turner](https://github.com/iarna)
 
+[Rina Schiller](https://github.com/rinaschiller)
+
 [rmurphey](https://github.com/rmurphey)
 
 [rmw](https://github.com/rmw)
