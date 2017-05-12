@@ -19,6 +19,7 @@
 - [chiuki](https://github.com/chiuki)
 - [cranberryofdoom](https://github.com/cranberryofdoom)
 - [csvoss](https://github.com/csvoss)
+- [DBNess](https://github.com/DBNess)
 - [divyaupadhyay](https://github.com/divyaupadhyay)
 - [econchick](https://github.com/econchick)
 - [ehashman](https://github.com/ehashman)
