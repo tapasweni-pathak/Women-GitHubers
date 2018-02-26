@@ -4,6 +4,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 Submit names by adding them in README.md and not list.md.
 
+If you want to know that how to contribute to the list, just follow this path : [first-contributions](https://github.com/Roshanjossey/first-contributions)
+
 **Note**: Please maintain the below list in alphabetical order.
 
 Aastha Gupta([AasthaGupta](https://github.com/AasthaGupta))
