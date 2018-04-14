@@ -547,7 +547,6 @@ a img{
 .user-img {
   position: relative;
   display: block;
-  height: 100%;
 }
 .mdl-button--fab {
   position:absolute;
