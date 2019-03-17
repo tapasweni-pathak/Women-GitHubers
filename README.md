@@ -172,6 +172,8 @@ Monica Dinculescu ([notwaldorf](https://github.com/notwaldorf))
 
 Monica Powell ([M0nica](https://github.com/M0nica))
 
+Monica Kherajani ([MonicaVashu](https://github.com/MonicaVashu))
+
 Molly Everett ([mollymorphic](https://github.com/mollymorphic))
 
 Morgan Phillips ([mrrrgn](https://github.com/mrrrgn))
@@ -183,6 +185,8 @@ Nelly Kiboi ([nellyk](https://github.com/nellyk))
 Nicole Harris ([nlhkabu](https://github.com/nlhkabu))
 
 Nicole Thomas ([rallytime](https://github.com/rallytime))
+
+Nidhi Kargathra ([nidhikargathra](https://github.com/nidhikargathra))
 
 Niharika Kohli ([Niharika29](https://github.com/Niharika29))
 
