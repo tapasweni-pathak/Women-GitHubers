@@ -48,6 +48,8 @@ Ashley Qian ([cranberryofdoom](https://github.com/cranberryofdoom))
 
 Ashley Williams ([ashleygwilliams](https://github.com/ashleygwilliams))
 
+Ashmi Chheda ([ashmichheda](https://github.com/ashmichheda))
+
 Atibhi Agrawal ([aSquare14](https://github.com/aSquare14))
 
 Audrey Roy Greenfeld ([audreyr](https://github.com/audreyr))
