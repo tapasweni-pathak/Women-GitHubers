@@ -142,6 +142,8 @@ Khyati Soneji  ([khyatisoneji](https://github.com/khyatisoneji))
 
 Kirti Thorat ([kirtithorat](https://github.com/kirtithorat))
 
+Komal Singh ([komalsingh1](https://github.com/komalsingh1)
+
 Laura ([alicetragedy](https://github.com/alicetragedy))
 
 Laura Frank ([rheinwein](https://github.com/rheinwein))
