@@ -1,9 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".UserDetailsActivity">
+    android:orientation="vertical"
+    tools:context=".UserDetailsActivity"
+    android:padding="20sp">
 
-</android.support.constraint.ConstraintLayout>
+    <de.hdodenhof.circleimageview.CircleImageView
+
+        android:layout_width="140sp"
+        android:layout_height="140sp"
+        android:layout_gravity="center"
+        android:id="@+id/profileimage"
+        android:layout_margin="30dp"/>
+
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:hint=""
+        android:layout_marginBottom="20sp"/>
+
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/company"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:hint=""
+        android:layout_marginBottom="20sp"/>
+
+
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:hint=""
+        android:layout_marginBottom="20sp"/>
+
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/doj"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:hint=""
+        android:layout_marginBottom="20sp"/>
+
+    <Button
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/github"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="Github"/>
+
+</LinearLayout>
