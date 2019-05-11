@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
         inspireme.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 Intent intent  = new Intent(getApplicationContext(),UserDetailsActivity.class);
                 startActivity(intent);
             }
