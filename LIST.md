@@ -81,6 +81,7 @@
 - [sindhus](https://github.com/sindhus)
 - [snipe](https://github.com/snipe)
 - [svaksha](https://github.com/svaksha)
+- [swati4star](https://github.com/Swati4star)
 - [tanyaschlusser](https://github.com/tanyaschlusser)
 - [tapasweni-pathak](https://github.com/tapasweni-pathak)
 - [thatdocslady](https://github.com/thatdocslady)
