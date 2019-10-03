@@ -82,7 +82,7 @@
 - [snipe](https://github.com/snipe)
 - [svaksha](https://github.com/svaksha)
 - [tanyaschlusser](https://github.com/tanyaschlusser)
-- [tapasweni-pathak](https://github.com/tapasweni-pathak)
+- [tapasweni-pathak](https://github.com/tapaswenipathak)
 - [thatdocslady](https://github.com/thatdocslady)
 - [thefoxis](https://github.com/thefoxis)
 - [tpinecone](https://github.com/tpinecone)
