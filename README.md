@@ -238,6 +238,8 @@ Prachi Manchanda([prachi1210](https://github.com/prachi1210))
 
 Pragya Jaiswal ([PragyaJaiswal](https://github.com/PragyaJaiswal))
 
+Prashi Doval ([prashi23](https://github.com/prashi23))
+
 Priyanka Malviya([priyankamalviya](https://github.com/priyankamalviya))
 
 Raquel Vélez ([rockbot](https://github.com/rockbot))
