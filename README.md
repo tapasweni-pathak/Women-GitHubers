@@ -84,6 +84,8 @@ Chiu-Ki Chan ([chiuki](https://github.com/chiuki))
 
 Clare Corthell ([clarecorthell](https://github.com/clarecorthell))
 
+Charmi Choksi ([charmichokshi](https://github.com/charmichokshi))
+
 Damini Satya ([daminisatya](https://github.com/daminisatya))
 
 Divya Upadhyay ([divyaupadhyay](https://github.com/divyaupadhyay))
@@ -159,6 +161,8 @@ Khyati Soneji  ([khyatisoneji](https://github.com/khyatisoneji))
 Kirti Thorat ([kirtithorat](https://github.com/kirtithorat))
 
 Krystyna Lopez ([lozinska](https://github.com/lozinska))
+
+Krupa Galiya ([krupagaliya](https://github.com/krupagaliya))
 
 Laura ([alicetragedy](https://github.com/alicetragedy))
 
